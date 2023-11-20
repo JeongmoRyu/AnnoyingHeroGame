@@ -67,13 +67,11 @@ make 2D game with unity
 
 ### 지도 & Entry Map
 
-<div>
-	
-![image](imageassets/fix_village.webp)
+<div style="display: flex;">
+  <img src="imageassets/fix_village.webp" width="40%" style="flex: 1;">
+  <img src="imageassets/fix_bossentry.webp" width="40%" style="flex: 1;">
+</div>	
 
-![image](imageassets/fix_bossentry.webp)
-
-</div>
 
 ```python
 - 카메라 애니메이션을 이용하여 script를 읽으면서 몰입감을 증진시켰습니다.
@@ -82,12 +80,11 @@ make 2D game with unity
 
 ### 시작 & esc
 
-<div>
-	
-![image](imageassets/fix_start.webp)
+<div style="display: flex;">
+  <img src="imageassets/fix_start.webp" width="40%" style="flex: 1;">
+  <img src="imageassets/fix_esc.webp" width="40%" style="flex: 1;">
+</div>	
 
-![image](imageassets/fix_esc.webp)
-</div>
 
 ```python
 - 보스맵은 무한 맵을 구현하여 승리 혹은 패배까지 꾸준히 달릴 수 있게 만들었습니다.
@@ -98,24 +95,16 @@ make 2D game with unity
 ### Item
 
 <div style="display: flex;">
-  <img src="imageassets/fix_item1.webp" width="50%" style="flex: 1;">
-  <img src="imageassets/fix_item2.webp" width="50%" style="flex: 1;">
+  <img src="imageassets/fix_item1.webp" width="40%" style="flex: 1;">
+  <img src="imageassets/fix_item2.webp" width="40%" style="flex: 1;">
 </div>
 
 <div style="display: flex;">
-  <img src="imageassets/fix_item3.webp" width="50%" style="flex: 1;">
-  <img src="imageassets/fix_item4.webp" width="50%" style="flex: 1;">
+  <img src="imageassets/fix_item3.webp" width="40%" style="flex: 1;">
+  <img src="imageassets/fix_item4.webp" width="40%" style="flex: 1;">
 </div>
-<!-- ![image](imageassets/fix_item1.webp)
- -->
-<!-- ![image](imageassets/fix_item2.webp) -->
 
-<div>
-	
-![image](imageassets/fix_item3.webp)
 
-![image](imageassets/fix_item4.webp)
-</div>
 
 ```python
 - Item은 5가지 종류를 가지고 있으며 확률에 따른 random 방식으로 구현됩니다.
@@ -131,12 +120,11 @@ make 2D game with unity
 
 ### Win & Fail
 
-<div>
-	
-![image](imageassets/fix_win.webp)
-
-![image](imageassets/fix_fail.webp)
+<div style="display: flex;">
+  <img src="imageassets/fix_win.webp" width="40%" style="flex: 1;">
+  <img src="imageassets/fix_fail.webp" width="40%" style="flex: 1;">
 </div>
+
 
 ```python
 - 승리와 패배의 ui를 달리하여 게임을 새롭게 플레이하거나
