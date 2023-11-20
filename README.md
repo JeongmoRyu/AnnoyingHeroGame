@@ -6,6 +6,19 @@ make 2D game with unity
 <img src="imageassets/A704로고.png" width="200">
 </div>
 
+### 기술 스택
+
+<div align="center">
+<img src="imageassets/skills.png" width="300">
+</div>
+
+<div align="center">
+<br>
+<img src="https://img.shields.io/badge/unity-000000?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/c-F09820?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+</div>
+
 ## UCC, PPT, 기획
 
 [UCC PPT[불편 용사 ;; **세상 사람들이 불편(不便)해하는 행동은 다 해서 주변의 빈축(嚬蹙)만 샀던 내가 이세계(異世界)에서는 프로 불편 용사(勇者)라고?**]](https://www.notion.so/UCC-PPT-7ba524f8a1424cc693102a2883c23197?pvs=21)
@@ -217,9 +230,6 @@ make 2D game with unity
 
 ![image](imageassets/ranking.png)
 
-# 기술 스택
-
-![image](imageassets/skills.png)
 
 # 팀원 소개
 
