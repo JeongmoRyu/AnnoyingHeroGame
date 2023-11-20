@@ -2,8 +2,9 @@
 make 2D game with unity
 
 
-
-![logo](imageassets/A704로고.png)
+<div align="center">
+<img src="imageassets/A704로고.png" width="200">
+</div>
 
 ## UCC, PPT, 기획
 
@@ -95,13 +96,19 @@ make 2D game with unity
 ```
 
 ### Item
-<div>
-<img scr="imageassets/fix_item1.webp" width="200">	
-<img scr="imageassets/fix_item2.webp" width="200">	
+
+<div style="display: flex;">
+  <img src="imageassets/fix_item1.webp" width="50%" style="flex: 1;">
+  <img src="imageassets/fix_item2.webp" width="50%" style="flex: 1;">
+</div>
+
+<div style="display: flex;">
+  <img src="imageassets/fix_item3.webp" width="50%" style="flex: 1;">
+  <img src="imageassets/fix_item4.webp" width="50%" style="flex: 1;">
+</div>
 <!-- ![image](imageassets/fix_item1.webp)
  -->
 <!-- ![image](imageassets/fix_item2.webp) -->
-</div>
 
 <div>
 	
