@@ -3,7 +3,7 @@ make 2D game with unity
 
 
 
-![게이모고.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/a440f2ed-0715-43e5-875e-c38d5d30a4b0/%EA%B2%8C%EC%9D%B4%EB%AA%A8%EA%B3%A0.png)
+![logo](imageassets/A704로고.png)
 
 ## UCC, PPT, 기획
 
@@ -15,7 +15,8 @@ make 2D game with unity
 
 # 🦸🏻🦹🏻‍♀️ 프로젝트 컨셉
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/9afcbadc-32e7-4e63-92cd-43f5a95b6cc7/Untitled.png)
+![image](imageassets/intro.png)
+
 
 > “**세상 사람들이 불편해 하는 행동은 다 해서 주변의 빈축(**嚬蹙)**만 샀던 내가 
 이 세계에서는 프로 불편 용사라고?”**
@@ -28,7 +29,7 @@ make 2D game with unity
 > 그런 세상에 떨어진 `**다리 떨고 쩝쩝 대고 맞춤법 틀리고 면 치기 하는 주인공**`.
 > 
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/57b5729c-b9e0-41d0-8693-6da7042d5bf7/Untitled.png)
+![image](imageassets/map.png)
 
 > 마왕과 그의 부하들을 쓰러뜨려 세상을 자유롭게 만들어야 하는 운명의 소용돌이 속으로..!!
 > 
@@ -37,7 +38,8 @@ make 2D game with unity
 
 ## 🔌 닉네임 입력으로 게임 접속
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/2e82b5a6-22c7-46bd-ad20-c8d5026d7d30/Untitled.png)
+![image](imageassets/inputname.png)
+
 
 > 개성 있는 닉네임으로 게임을 시작해요
 > 
@@ -46,7 +48,7 @@ make 2D game with unity
 
 ## 🏹 첫 번째 게임 `이브르다다라`
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/447ff4c6-cc03-4b6b-98a1-857a250d74af/Untitled.png)
+![image](imageassets/mygame.png)
 
 > 조용히 음식을 먹어야 하는 `랭KING` 이 점령한 이브다다라 성!
 > 
@@ -64,9 +66,13 @@ make 2D game with unity
 
 ### 지도 & Entry Map
 
-![fix_village.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/912cb70f-93dd-439b-a316-89b1d4ca1901/fix_village.webp)
+<div>
+	
+![image](imageassets/fix_village.webp)
 
-![fix_bossentry.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/b7a2c251-d340-4e28-ad1b-7fcb7c5fb717/fix_bossentry.webp)
+![image](imageassets/fix_bossentry.webp)
+
+</div>
 
 ```python
 - 카메라 애니메이션을 이용하여 script를 읽으면서 몰입감을 증진시켰습니다.
@@ -75,9 +81,12 @@ make 2D game with unity
 
 ### 시작 & esc
 
-![fix_start.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/88e7c5e0-900c-44d3-baba-6f56dfc4e87e/fix_start.webp)
+<div>
+	
+![image](imageassets/fix_start.webp)
 
-![fix_esc.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/755a126a-5065-4683-bdca-68e2e1658309/fix_esc.webp)
+![image](imageassets/fix_esc.webp)
+</div>
 
 ```python
 - 보스맵은 무한 맵을 구현하여 승리 혹은 패배까지 꾸준히 달릴 수 있게 만들었습니다.
@@ -87,13 +96,19 @@ make 2D game with unity
 
 ### Item
 
-![fix_item1.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/a9bfe527-9ebc-456e-8902-198fda652d58/fix_item1.webp)
+<div>
+	
+![image](imageassets/fix_item1.webp)
 
-![fix_item2.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/a9e604ba-df23-44ad-98d7-14f2c824adc4/fix_item2.webp)
+![image](imageassets/fix_item2.webp)
+</div>
 
-![fix_item3.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/80666011-0032-4d0f-8d7e-b9c0ef49a20d/fix_item3.webp)
+<div>
+	
+![image](imageassets/fix_item3.webp)
 
-![fix_item4.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/10019473-0e00-43b0-80e0-9a8cff4ccacf/fix_item4.webp)
+![image](imageassets/fix_item4.webp)
+</div>
 
 ```python
 - Item은 5가지 종류를 가지고 있으며 확률에 따른 random 방식으로 구현됩니다.
@@ -101,7 +116,7 @@ make 2D game with unity
 
 ### Play
 
-![fix_play.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/602ce426-744e-400c-9401-fc13384de2fc/fix_play.webp)
+![image](imageassets/fix_play.webp)
 
 ```python
 - 즐겁게 게임을 즐길 수 있습니다.
@@ -109,9 +124,12 @@ make 2D game with unity
 
 ### Win & Fail
 
-![fix_win.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/a17ab86d-3ef6-4371-a61f-d00fe73607b9/fix_win.webp)
+<div>
+	
+![image](imageassets/fix_win.webp)
 
-![fix_fail.webp](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/3ba75b14-696e-40e9-9882-3274fce4ece9/fix_fail.webp)
+![image](imageassets/fix_fail.webp)
+</div>
 
 ```python
 - 승리와 패배의 ui를 달리하여 게임을 새롭게 플레이하거나
@@ -122,20 +140,17 @@ make 2D game with unity
 
 ## 🕊️ 두 번째 게임 `지거국`
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/33bfcd11-c90f-4040-943b-fae768cde670/Untitled.png)
+![image](imageassets/scene2.png)
 
 > 탕수육은 무조건 부어 먹는 `부머기라스` 가 점령한 지거국!
 > 
 
-### 설명서
-
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/f91f310b-04f3-4fe2-a0f5-3a29fe57b644/Untitled.png)
 
 ---
 
 ## 👟 세 번째 게임 `후르프후릎`
 
-![Scene3_Playing.gif](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/218f958b-3880-407d-b678-801072181bc8/Scene3_Playing.gif)
+![image](imageassets/scene3.png)
 
 > **면치기**를 가장 더러워하는 `후르브킹` 이 점령한 후르프후릎 성!
 > 
@@ -165,7 +180,8 @@ make 2D game with unity
 
 ## 🥁 네 번째 게임 `다리떨리아`
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/563c0e90-a7a1-449c-bd50-74259a2d53db/Untitled.png)
+![image](imageassets/scene4.png)
+
 
 > 다리 떠는 것을 혐오하는 `고만터러킹` 이 점령한 다리떨리아 성!
 > 
@@ -185,7 +201,7 @@ make 2D game with unity
 
 ## 🍽️ 마지막 게임 `보스전`
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/ea34b978-fbc0-4d68-a916-20410eca2aa6/Untitled.png)
+![image](imageassets/boss.png)
 
 > 가장 강력하고 결벽적인 `파르펙토(perfect)` 대마왕!
 그런 대마왕에게 단 한 가지 결점이 있었다?
@@ -204,11 +220,11 @@ make 2D game with unity
 
 ## 🥇 랭킹 확인
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/242ef757-f018-4d45-9015-205eadcfdd31/Untitled.png)
+![image](imageassets/ranking.png)
 
 # 기술 스택
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/f826548c-dfb0-4cf8-95d5-a414595fcdae/ffb78534-f22f-4ecc-bf8e-4f3045f6f62c/Untitled.png)
+![image](imageassets/skills.png)
 
 # 팀원 소개
 
