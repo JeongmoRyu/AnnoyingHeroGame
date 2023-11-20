@@ -95,12 +95,12 @@ make 2D game with unity
 ```
 
 ### Item
-
 <div>
-	
-![image](imageassets/fix_item1.webp)
-
-![image](imageassets/fix_item2.webp)
+<img scr="imageassets/fix_item1.webp" width="200">	
+<img scr="imageassets/fix_item2.webp" width="200">	
+<!-- ![image](imageassets/fix_item1.webp)
+ -->
+<!-- ![image](imageassets/fix_item2.webp) -->
 </div>
 
 <div>
