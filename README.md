@@ -6,6 +6,8 @@ make 2D game with unity
 <img src="imageassets/A704로고.png" width="200">
 </div>
 
+# 🥇삼성 주관 프로젝트 경진 우수 프로젝트 선정🥇
+
 ### 기술 스택
 
 <div align="center">
